@@ -1,0 +1,29 @@
+{
+  "name": "react-linked-input",
+  "version": "0.0.201602251626",
+  "description": "LinkedInput supports the ReactLink semantics",
+  "main": "LinkedInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unmaintained-7374872/unmaintained-LinkedInput.git"
+  },
+  "keywords": [
+    "react",
+    "linkedinput",
+    "input",
+    "linked",
+    "reactlink"
+  ],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/unmaintained-7374872/unmaintained-LinkedInput/issues"
+  },
+  "homepage": "https://github.com/unmaintained-7374872/unmaintained-LinkedInput#readme",
+  "peerDependencies": {
+    "react": "^0.14.7"
+  }
+}
